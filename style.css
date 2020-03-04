@@ -1,0 +1,14 @@
+/* Layout style */
+[class^="col-"] {
+  height: 30px;
+  background-color: black;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.h2{
+  padding: 20px 0px;
+  text-align: center;
+}
