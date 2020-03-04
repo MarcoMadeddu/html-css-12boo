@@ -4,6 +4,10 @@
   background-color: #08154A;
 }
 
+section{
+  padding: 20px 0px;
+}
+
 .white{
   background-color: white;
 }
@@ -12,7 +16,20 @@
   background-color: #D51635;
 }
 
+.green{
+  background-color: #023827;
+}
+
+.gred{
+  background-color: #891717;
+}
+
 .h2{
   padding: 20px 0px;
   text-align: center;
+}
+
+img{
+  width: 50px;
+  position: relative;
 }
