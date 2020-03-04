@@ -13,6 +13,8 @@
 
 [class^="col-"] {
   float: left;
+  background-color: lightgrey;
+  text-align: center;
 }
 
 /* Columns */
